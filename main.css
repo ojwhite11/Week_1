@@ -1,0 +1,49 @@
+/*
+declaration block::
+
+selector{
+    property1:value1;
+    
+    property2:value2;
+    
+    property3:value3;
+}
+*/
+
+body{
+    background-color: rgba(70, 138, 138, 0.797);
+    color: aliceblue;
+}
+
+nav{
+    height: 6000px;
+    width: 200px;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+}
+
+footer{
+    text-align: center;
+    margin-right: 200px;
+}
+
+#memeImage{
+    margin-right: 200px;
+}
+
+header {
+    text-align: center;
+}
+
+p {
+    font-size: 16px;
+    color: rgb(1, 1, 1);
+    margin: 10px;
+}
+
+h1 {
+    font-size: 32px;
+    color: gold;
+    text-transform: uppercase;
+}
